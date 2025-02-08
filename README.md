@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -71,7 +69,7 @@
         transition: background-color 0.3s ease;
     }
     button:hover {
-        background-color: #555; 
+        background-color: #p555; 
     }
     p {
         font-size: 14px;
@@ -97,7 +95,7 @@
     <img src="background.gif" alt="Background GIF">
 
     <div class="container">
-        <h1>ATTACK LAYER 7</h1>
+        <h1> TEAM XMRANONYE.ID ATTACK LAYER 7</h1>
         <form method="POST">
             <label for="target">[Target URL]</label>
             <input type="text" id="target" name="target" value="https://exemple.com" required>
@@ -117,30 +115,9 @@
                 <option value="2.js">Rapid Reset</option>
                 <option value="4.js">CF Bypass</option>
             </select>
-
-            
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ATTACK LAYER 7</title>
-<style>
-    body {
-        margin: 0;
-        padding: 0;
-        height: 100vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-family: Arial, sans-serif;
-        overflow: hidden;
-    }
-    img {
-        position: fixed;
             <button type="submit">Start</button>
         </form>
 
-     <div class='status'>Status: 0/1</div>    </div>
+        <div class='status'>Status: 0/1</div>    </div>
 </body>
 </html>
